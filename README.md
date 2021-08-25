@@ -8,4 +8,3 @@ This thesis will focus on solving these equations numerically using the finite d
 method. The computations will be performed using Matlab, since it allows for simple matrix
 calculations and provides useful visualization features.
 
-## Example outputs
